@@ -5,7 +5,7 @@ def head():
     return 'Hello world Nesisim'
 @app.route('/second')
 def second():
-    return 'This is second page'
+    return 'This is second page and Nese is here'
 @app.route('/third')
 def third():
     return 'This is third page'
